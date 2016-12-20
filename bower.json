@@ -1,0 +1,25 @@
+{
+  "name": "webproject",
+  "description": "Website for Stream 1",
+  "main": "index.js",
+  "authors": [
+    "M Kravalis"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/loonz777/Angular-project",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "dependencies": {
+    "angular": "^1.6.0",
+    "bootstrap": "^3.3.7",
+    "angular-route": "^1.6.0"
+  }
+}
